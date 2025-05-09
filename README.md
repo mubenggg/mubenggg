@@ -5,7 +5,6 @@
 🏢 Currently working at Pasadana SDN BHD, focusing on debt recovery analytics  
 📊 Skilled in SQL, Power BI, and Excel-based monitoring systems  
 📌 Building data dashboards and automation tools to improve business decision-making  
-🎥 Occasionally sharing insights and tutorials on [YouTube](https://www.youtube.com/)  
 🌱 Currently exploring machine learning for predictive analytics  
 
 ## 💻 Tech Stack
