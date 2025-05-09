@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Mubin!
 
-<!--
-**mubenggg/mubenggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Data Analyst passionate about turning raw data into actionable insights  
+🎓 Studied Data Analytics and Information Systems  
+🏢 Currently working at Pasadana SDN BHD, focusing on debt recovery analytics  
+📊 Skilled in SQL, Power BI, and Excel-based monitoring systems  
+📌 Building data dashboards and automation tools to improve business decision-making  
+🎥 Occasionally sharing insights and tutorials on [YouTube](https://www.youtube.com/)  
+🌱 Currently exploring machine learning for predictive analytics  
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=Microsoft-SQL-Server&logoColor=white)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=Power-BI&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=Microsoft-Excel&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Mubin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true&theme=radical)
+
+---
+📝 More about me: [mubinnorazmi.com](https://mubinnorazmi.com) *(if you have a site – or leave this line out)*
