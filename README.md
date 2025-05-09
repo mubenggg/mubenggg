@@ -18,5 +18,6 @@
 📝 More about me: [LinkedIn Profile](https://www.linkedin.com/in/mubin-nor-azmi/) 
 
 📊 Dive into my data analysis portfolio below 
-&nbsp;⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️  
                     
