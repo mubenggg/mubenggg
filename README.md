@@ -14,8 +14,5 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 📈 GitHub Stats
-![Mubin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true&theme=radical)
-
 ---
 📝 More about me: [LinkedIn Profile](https://www.linkedin.com/in/mubin-nor-azmi/) 
