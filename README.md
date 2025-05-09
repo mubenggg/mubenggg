@@ -19,4 +19,4 @@
 ![Mubin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true&theme=radical)
 
 ---
-📝 More about me: [LinkedIn Profile](https://www.linkedin.com/in/mubin-nor-azmi/) *(if you have a site – or leave this line out)*
+📝 More about me: [LinkedIn Profile](https://www.linkedin.com/in/mubin-nor-azmi/) 
